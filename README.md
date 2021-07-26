@@ -1,4 +1,4 @@
-# Dice toss
+# 🎲 Dice toss 🎲
 Need to make a decision via dices? This could help.
 
 Test at : https://anshuman235.github.io/dice-toss/
